@@ -24,27 +24,3 @@
 
 Sou um **cientista autodidata** e **curioso** por natureza. Desde criança, já desmontava eletrônicos e explorava informática e elétrica por prazer. Sempre fui movido pela **tecnologia** e a vontade de entender como as coisas funcionam.
 
-### 🧑‍🏫 **Experiência**
-
-- **Professor Técnico**: Desde que entrei na área, ensino **T.I.** no ensino técnico. Amo passar o conhecimento para a próxima geração e ver a galera se apaixonando por tecnologia.
-
-- **Suporte Técnico**: Sou **usuário de Linux** desde 2010, comecei com **Ubuntu 04.10**, mas nunca larguei o **Windows** — esse sempre foi meu foco no suporte técnico. Hoje, rodo distros como **Ubuntu**, **Fedora**, **Debian** e **Kali**. 🚀
-
-- **Pioneiro na Web**: Navego desde os tempos da **Embratel** e **Semp Toshiba** (aquele amarelado!). A internet foi meu playground desde o começo. 🌐
-
-- **Desmontador de Eletrônicos**: Sempre fui aquele cara que desmontei tudo pra entender como funciona. Não consigo ver uma peça de tecnologia sem querer saber como ela é feita.
-
----
-
-### 🎮 **Hobbies e Paixões**
-
-- **🎸 Música**: **Iron Maiden** é minha vibe! Toco guitarra e violão, mas escuto de tudo. Música é essencial pra mim.
-
-- **🚗 Carros**: **Tuning**, **drift**, **corridas**... sou louco por carros. A vida é curta pra ter carro sem graça!
-
-- **♟️ Estratégia**: Amo **xadrez** e **poker**. Me ensinaram a pensar mais e agir com lógica.
-
-- 🌌 **Apaixonado por Ciências**: Um curioso incansável que vê a vida como um grande laboratório para explorar, aprender e experimentar.  
-
-
----
