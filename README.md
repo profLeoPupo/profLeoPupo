@@ -9,10 +9,11 @@
 <div align="left">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=profLeoPupo&theme=radical" height="180" alt="GitHub Streak" />
 </div> 
-
+---
 <div align="left">  
   <img src="https://komarev.com/ghpvc/?username=profLeoPupo&color=blue&style=flat" height="28" alt="Profile Views" />  
 </div>
+---
 
 
 ### 🔧 Linguagens
