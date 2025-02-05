@@ -57,7 +57,3 @@ Sou um **cientista autodidata** e **curioso** por natureza, apaixonado por explo
 
 
 
-## 📜 **Sobre Mim**
-
-Sou um **cientista autodidata** e **curioso** por natureza. Desde criança, já desmontava eletrônicos e explorava informática e elétrica por prazer. Sempre fui movido pela **tecnologia** e a vontade de entender como as coisas funcionam.
-
