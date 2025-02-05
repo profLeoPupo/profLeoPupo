@@ -4,8 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profLeoPupo&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profLeoPupo&layout=compact&theme=radical)  
 
 ---
-## 🏆 Conquistas e Métricas  
-
+## 🏆 Conquistas e Métricas
 <div align="left">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=profLeoPupo&theme=radical" height="180" alt="GitHub Streak" />
 </div> 
