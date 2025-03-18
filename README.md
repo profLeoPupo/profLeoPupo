@@ -16,7 +16,7 @@
 
 ## Perfil Profissional
 
-*Durante a entrevista, fique à vontade para explorar meu currículo no [GitHub](https://github.com/profLeoPupo/profLeoPupo/CV_Digital).
+*Durante a entrevista, fique à vontade para explorar meu currículo no [GitHub](https://github.com/profLeoPupo/CV_Digital).
 'Sempre atualizado e disponível online, reforçando meu compromisso com a **inovação** e a **acessibilidade digital**´.*
 
 ---
