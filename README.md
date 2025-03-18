@@ -16,7 +16,7 @@
 
 ## Perfil Profissional
 
-** Meu currículo digital está sempre atualizado e disponível online, reforçando meu compromisso com a transparência, a inovação e a acessibilidade digital. Durante a entrevista, fique à vontade para explorar meu perfil e projetos no [GitHub](https://github.com/profLeoPupo/profLeoPupo/cvdigial.md). **
+**Meu currículo digital está sempre atualizado e disponível online, reforçando meu compromisso com a transparência, a inovação e a acessibilidade digital. Durante a entrevista, fique à vontade para explorar meu perfil e projetos no [GitHub](https://github.com/profLeoPupo/profLeoPupo/cvdigial.md).**
 
 ---
 
