@@ -1,4 +1,4 @@
-# 👨‍💻 Prof. Leo Pupo | SAC Técnico  11932519655
+# 👨‍💻 Prof. Leo Pupo | SAC Técnico  
 
 ## 📊 Minhas Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profLeoPupo&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profLeoPupo&layout=compact&theme=radical)  
