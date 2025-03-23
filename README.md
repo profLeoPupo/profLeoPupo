@@ -14,9 +14,34 @@
 </div>
 ---
 
+## Sobre mim
+
+Sou apaixonado por tecnologia, educação e acessibilidade digital. Durante a semana, dedico-me às aulas na **AeroNet Informática e Inglês**, onde transformo o ensino em uma experiência prática e dinâmica para meus alunos. Aos domingos e segundas, conduzo a **SAC Técnico**, minha empresa, onde ofereço suporte técnico, consultorias e serviços como técnico eletricista – sempre com a missão de proporcionar soluções inovadoras e acessíveis.
+
+Meu compromisso é com a transformação digital e a democratização do acesso à informação, tanto na sala de aula quanto no atendimento técnico.
+
+## Minhas Atividades
+
+- **AeroNet Informática e Inglês:**  
+  Ministrando aulas que combinam teoria e prática, preparando os alunos para os desafios do mercado digital.
+  
+- **SAC Técnico:**  
+  Prestando suporte técnico, consultorias e serviços de elétrica com foco na eficiência e inovação, atendendo às demandas de clientes que buscam soluções tecnológicas e práticas.
+
+- **Compartilhamento de Conhecimento:**  
+  Disponibilizo meus perfis, links e contatos de forma transparente, incentivando a colaboração, a troca de experiências e a atualização constante.
+
+## Links e Contatos
+
+- **GitHub:** [github.com/profLeoPupo](https://github.com/profLeoPupo)
+- **LinkedIn:** [linkedin.com/in/profLeoPupo](https://linkedin.com/in/profLeoPupo)
+- **E-mail:** [leopupo.ti@sactecnico.com.br](mailto:leopupo.ti@sactecnico.com.br) | [leopupo.ti@gmail.com](mailto:leopupo.ti@gmail.com)
+
+Estou sempre aberto a novas conexões e parcerias, seja para aprimorar a educação ou oferecer soluções técnicas de alta qualidade. Sinta-se à vontade para explorar meu perfil e entrar em contato!
+
 ## Perfil Profissional
 
-*Durante a entrevista, fique à vontade para explorar meu currículo no [GitHub](https://github.com/profLeoPupo/CV_Digital).
+*fique à vontade para explorar meu currículo no [GitHub](https://github.com/profLeoPupo/CV_Digital).
 'Sempre atualizado e disponível online, reforçando meu compromisso com a **inovação** e a **acessibilidade digital**´.*
 
 ---
@@ -46,18 +71,6 @@
 
 ---
 
-## 📜 Sobre Mim
-
-Sou um **cientista autodidata** e **curioso** por natureza, apaixonado por explorar a interseção entre tecnologia, ciência e inovação. Desde cedo, mergulhei no mundo da informática e da eletrônica, sempre buscando entender como as coisas funcionam e como posso contribuir para um futuro mais inteligente.
-
----
-
-## 📫 Contato
-
-- **Email:** [leopupo.ti@sactecnico.com.br](mailto:leopupo.ti@sactecnico.com.br)
-- **SAC Técnico**: [sactecnico.com.br](https://sactecnico.com.br)
-
----
 
 *Desenvolva. Inove. Inspire.*
 
