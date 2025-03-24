@@ -1,4 +1,4 @@
-# 👨‍💻 Prof. Leo Pupo | SAC Técnico <img src="https://sactecnico.github.io/img/favicon-32x32.png" width="32">
+# 👨‍💻 Prof. Leo Pupo | SAC Técnico <img src="https://github.com/profLeoPupo/sactecnico/blob/pupoleo/img/favicon-32x32.png" width="32">
 
 ## 📊 Minhas Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=profLeoPupo&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=profLeoPupo&layout=compact&theme=radical)  
