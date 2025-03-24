@@ -16,7 +16,7 @@
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia, educação e acessibilidade digital. Durante a semana, dedico-me às aulas na **AeroNet Informática e Inglês**, onde transformo o ensino em uma experiência prática e dinâmica para meus alunos. Aos domingos e segundas, conduzo a **SAC Técnico**, minha empresa, onde ofereço suporte técnico, consultorias e serviços como técnico eletricista – sempre com a missão de proporcionar soluções inovadoras e acessíveis.
+Sou apaixonado por tecnologia, educação e acessibilidade digital. Durante a semana, dedico-me às aulas na **AeroNet Informática e Inglês**, onde transformo o ensino em uma experiência prática e dinâmica para meus alunos. Conduzo a **SAC Técnico**, minha empresa, onde ofereço suporte técnico, consultorias e serviços como técnico eletricista – sempre com a missão de proporcionar soluções inovadoras e acessíveis.
 
 Meu compromisso é com a transformação digital e a democratização do acesso à informação, tanto na sala de aula quanto no atendimento técnico.
 
