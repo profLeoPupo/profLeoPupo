@@ -34,7 +34,7 @@ Meu compromisso é com a transformação digital e a democratização do acesso 
 ## Links e Contatos
 
 - **GitHub:** [github.com/profLeoPupo](https://github.com/profLeoPupo)
-- **LinkedIn:** [linkedin.com/in/profLeoPupo](https://linkedin.com/in/profLeoPupo)
+- **LinkedIn:** [linkedin.com/in/prof-leopupo](https://linkedin.com/in/prof-leopupo)
 - **E-mail:** [leopupo.ti@sactecnico.com.br](mailto:leopupo.ti@sactecnico.com.br) | [leopupo.ti@gmail.com](mailto:leopupo.ti@gmail.com)
 
 Estou sempre aberto a novas conexões e parcerias, seja para aprimorar a educação ou oferecer soluções técnicas de alta qualidade. Sinta-se à vontade para explorar meu perfil e entrar em contato!
@@ -61,7 +61,7 @@ Estou sempre aberto a novas conexões e parcerias, seja para aprimorar a educaç
   <a href="https://www.facebook.com/profpupo.leo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-pupo-8b3450101/" target="_blank">
+  <a href="[https://www.linkedin.com/in/leonardo-pupo-8b3450101/](https://www.linkedin.com/in/prof-leopupo/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/profpupo.leo" target="_blank">
