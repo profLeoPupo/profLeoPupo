@@ -13,23 +13,27 @@
   <img src="https://komarev.com/ghpvc/?username=profLeoPupo&color=blue&style=flat" height="28" alt="Profile Views" />  
 </div>
 ---
+🧑‍💻 Sobre Mim
 
-## Sobre mim
+Sou um apaixonado por tecnologia, educação e acessibilidade digital. Dedico-me a criar experiências de aprendizado práticas e transformadoras, tanto na sala de aula quanto em projetos pessoais e profissionais.
 
-Sou apaixonado por tecnologia, educação e acessibilidade digital. Durante a semana, dedico-me às aulas na **AeroNet Informática e Inglês**, onde transformo o ensino em uma experiência prática e dinâmica para meus alunos. Conduzo a **SAC Técnico**, minha empresa, onde ofereço suporte técnico, consultorias e serviços como técnico eletricista – sempre com a missão de proporcionar soluções inovadoras e acessíveis.
+Com mais de 15 anos de experiência, sou o fundador da SAC Técnico, uma empresa que oferece suporte técnico, consultoria e soluções inovadoras em tecnologia e eletricidade. No meu trabalho, busco sempre democratizar o acesso à tecnologia, garantindo que todos tenham as ferramentas necessárias para crescer e se desenvolver no mundo digital.
 
-Meu compromisso é com a transformação digital e a democratização do acesso à informação, tanto na sala de aula quanto no atendimento técnico.
+Atualmente, também sou professor e mentor, ministrando cursos técnicos, sempre com foco em habilitar e capacitar meus alunos para o mercado de trabalho, com ensinamentos práticos e acessíveis.
 
-## Minhas Atividades
+Minha missão é facilitar a transformação digital e promover a inclusão, unindo tecnologia e educação para um futuro mais acessível e inovador.
+🚀 Projetos e Iniciativas
+SAC Técnico
 
-- **AeroNet Informática e Inglês:**  
-  Ministrando aulas que combinam teoria e prática, preparando os alunos para os desafios do mercado digital.
-  
-- **SAC Técnico:**  
-  Prestando suporte técnico, consultorias e serviços de elétrica com foco na eficiência e inovação, atendendo às demandas de clientes que buscam soluções tecnológicas e práticas.
+Como fundador da SAC Técnico, lidero uma equipe dedicada a fornecer soluções práticas e tecnológicas para diversos setores, desde o suporte técnico até a consultoria personalizada em eletrônica e TI. Cada serviço que oferecemos visa agilizar e otimizar processos, ajudando nossos clientes a alcançarem eficiência e inovação em suas operações.
 
-- **Compartilhamento de Conhecimento:**  
-  Disponibilizo meus perfis, links e contatos de forma transparente, incentivando a colaboração, a troca de experiências e a atualização constante.
+    Áreas de Atuação:
+
+        Suporte técnico em informática
+
+        Consultoria em automação e sistemas de TI
+
+        Soluções para eficiência energética e eletricidade
 
 ## Links e Contatos
 
