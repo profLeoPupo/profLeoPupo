@@ -13,7 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=profLeoPupo&color=blue&style=flat" height="28" alt="Profile Views" />  
 </div>
 ---
-🧑‍💻 Sobre Mim
+
+## 🧑‍💻 Sobre Mim
 
 Sou um apaixonado por tecnologia, educação e acessibilidade digital. Dedico-me a criar experiências de aprendizado práticas e transformadoras, tanto na sala de aula quanto em projetos pessoais e profissionais.
 
