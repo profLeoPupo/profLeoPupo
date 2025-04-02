@@ -28,13 +28,13 @@ SAC Técnico
 
 Como fundador da SAC Técnico, lidero uma equipe dedicada a fornecer soluções práticas e tecnológicas para diversos setores, desde o suporte técnico até a consultoria personalizada em eletrônica e TI. Cada serviço que oferecemos visa agilizar e otimizar processos, ajudando nossos clientes a alcançarem eficiência e inovação em suas operações.
 
-    Áreas de Atuação:
+Áreas de Atuação:
 
-        Suporte técnico em informática
+Suporte técnico em informática
 
-        Consultoria em automação e sistemas de TI
+Consultoria em automação e sistemas de TI
 
-        Soluções para eficiência energética e eletricidade
+Soluções para eficiência energética e eletricidade
 
 ## Links e Contatos
 
