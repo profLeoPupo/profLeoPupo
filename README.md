@@ -6,7 +6,7 @@
 ---
 ## 🏆 Conquistas e Métricas
 <div align="left">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=profLeoPupo&theme=radical" height="180" alt="GitHub Streak" cache_seconds=5 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=profLeoPupo&theme=radical" height="180" alt="GitHub Streak" cache_seconds=1 />
 </div> 
 ---
 <div align="left">  
