@@ -10,7 +10,7 @@
 
 ## 👨‍🏫 Sobre Mim
 
-Sou um entusiasta de tecnologia, educação e inovação digital. Com mais de **15 anos de atuação**, fundei a **SAC Técnico**, onde lidero soluções em TI, suporte técnico e consultoria eletrônica. Como professor e mentor, capacito alunos com foco no **mercado de trabalho real**.
+Sou um cientista de tecnologia, educação e inovação digital. Com mais de **15 anos de atuação profissional**, fundei a **SAC Técnico**, onde lidero soluções em TI, suporte técnico e consultoria eletrônica. Como professor e mentor, capacito alunos com foco no **mercado de trabalho real**.
 
 > "Minha missão é tornar o digital acessível e transformador para todos."
 
